@@ -4,6 +4,6 @@ This is a small exercise in **data validation** and **conditional formatting** i
 
 Este es un pequeño ejercicio de **validación de datos** y **formato condicional** en el registro de facturas, muy útil para cualquier procedimiento que necesite **aumentar** su **agilidad** sin afectar el **control de la información** en **Excel**. En el se puede observar la regla de validación (una entre varias establecidas en el archivo) con las instrucciones de uso de la celda y los cambios en el formato de la misma, que dependen de condiciones como su valor, valor en blanco y/o duplicidad.
 
-https://soysena-my.sharepoint.com/:x:/g/personal/gborrero3_soy_sena_edu_co/ES9N-7SRzz1CqFLiycZA_soB-NqyXewboWqc5z_kDG9cDA?e=Yxd80Y
+https://soysena-my.sharepoint.com/:x:/g/personal/gborrero3_soy_sena_edu_co/ES9N-7SRzz1CqFLiycZA_soBEUOEex7ThxDT4Jhjj5ENcA?e=UJkSXs
 
 ![image](https://github.com/user-attachments/assets/3290b32a-2bca-4983-a13e-5ed72cbd63ff)
